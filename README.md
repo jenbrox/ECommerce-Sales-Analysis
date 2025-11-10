@@ -1,19 +1,79 @@
-# ECommerce-Sales-Analysis
+# eCommerce-Sales-Analysis
 Power BI Dashboard
-:arrow_right_hook:
- :pushpin: 
-:beginner: Problem Statement
-:beginner: Import Data in MS SQL Server
-:beginner: Connect Power BI to MS SQL Database
-:beginner: Clean Data
-:beginner: Process Data
-:beginner: Data Modelling
-:beginner: Create Date Table
-:beginner: Data Visualization
-:beginner: Create Dashboard
-:beginner: Generate Insights
+* Problem Statement
+* Import Data in MS SQL Server
+* Connect Power BI to MS SQL Database
+* Clean Data
+* Process Data
+* Data Modelling
+* Create Date Table
+* Data Visualization
+* Create Dashboard
+* Generate Insights
 
 ### Problem Statement
+A US based ecommerce business needs a real time sales performance dashboard to understand profitability, customer behavior, and product performance across the country. Leadership wants to monitor year-to-date sales, evaluate growth trends, and identify top- and bottom-performing categories, products, and regions to support strategic decision-making and revenue growth planning.
+
+### ✅ Business Questions / Analytical Questions
+📌 Sales & Growth Performance
+
+What are our current YTD Sales, Profit, Quantity, and Profit Margin, and how do they compare to last year?
+
+What is the YoY growth trend across key performance metrics?
+
+Are we experiencing healthy and consistent monthly sales growth throughout the year?
+
+What early indicators (sparklines) reveal positive or negative sales momentum?
+
+📌 Category-Level Performance
+
+Which product categories (Office Supplies, Technology, Furniture) are driving the most revenue?
+
+How are YTD Sales performing vs. PYTD by category?
+
+Which categories are growing or declining YoY and by what percentage?
+
+Which categories require strategic focus to improve performance?
+
+📌 Geographic Performance
+
+Which states generate the highest and lowest sales revenue YTD?
+
+Which US regions (East, West, South, Central) are performing best or underperforming?
+
+Are there geographic opportunities to expand marketing or distribution?
+
+📌 Product Insights
+
+What are the Top 5 products contributing most to YTD sales?
+
+Which Bottom 5 products are underperforming and may need attention (e.g., marketing, pricing, or removal)?
+
+Are there patterns in product performance (SKU mix effectiveness)?
+
+📌 Shipping & Operations
+
+What percentage of YTD sales comes from each shipping method?
+
+Which shipping method is most frequently used and does it correlate with profitability or order volume?
+
+Should the company optimize shipping policies to drive profit margin or customer satisfaction?
+
+✅ Strategic Insights Questions
+
+These help you look like a BI consultant, not just a dashboard builder:
+
+Where should the company focus to maximize revenue growth?
+
+Which customer segments or regions show the greatest upsell or cross-sell potential?
+
+What operational improvements (shipping, fulfillment, inventory levels) can drive cost efficiency?
+
+Are there product categories losing traction that need pricing/marketing review?
+
+Are there emerging high-value product opportunities based on YoY trends?
+
+
 A US Based Ecommerce Sales Company wants a Sales Dashboard showing information of YTD Sales and generate insights for below scenarios -
 
 * **Create a KPI Banner** showing YTD Sales, YTD Profit, YTD Quantity sold, YTD Profit Margin
